@@ -5,7 +5,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JesseRubio/AnonZipCrack/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-# ANON CRACKER SIMPLE POWERFUL BRUTEFORCE TOOL
+# ANON CRACKER
 
 ### PLS READ ERROR FIXING SECTION AND RUN <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 -  simple and fast bruteforce for pdf , zip and hashes
